@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="frases">
+        <item>Que Deus abençoe seu caminho e ilumine cada passo que você der.</item>
+        <item>A graça de Deus é suficiente para todas as suas necessidades.</item>
+        <item>Confie em Deus, pois Ele tem planos maiores para você.</item>
+        <item>Que a paz de Deus transborde em seu coração todos os dias.</item>
+        <item>Deus nunca abandona quem nele acredita sinceramente.</item>
+        <item>Que as bênçãos de Deus se multipliquem em sua vida.</item>
+        <item>Com Deus, todas as coisas são possíveis.</item>
+        <item>Que você sinta o amor infinito de Deus em cada momento.</item>
+        <item>Deus é o seu refúgio e a sua fortaleza.</item>
+        <item>Que a fé em Deus guie todos os seus passos.</item>
+        <item>Que Deus transforme seus desafios em oportunidades de crescimento.</item>
+        <item>A misericórdia de Deus é eterna e infinita.</item>
+        <item>Que você experimente a presença de Deus em sua vida.</item>
+        <item>Deus abençoa quem mantém a fé mesmo nas dificuldades.</item>
+        <item>Que as portas da bênção se abram para você.</item>
+        <item>Confie que Deus está ao seu lado em todos os momentos.</item>
+        <item>Que a sabedoria de Deus ilumine suas decisões.</item>
+        <item>Deus é amor, e esse amor nunca falha.</item>
+        <item>Que você seja tocado pela graça transformadora de Deus.</item>
+        <item>Que a proteção divina resguarde você sempre.</item>
+        <item>Deus ouve cada oração que sai do seu coração.</item>
+        <item>Que a bênção do Senhor repouse sobre você e sua família.</item>
+        <item>Com Deus, você nunca está sozinho.</item>
+        <item>Que a esperança em Deus fortaleça sua alma.</item>
+        <item>Deus tem misericórdia daqueles que O buscam sinceramente.</item>
+        <item>Que você encontre paz na presença do Senhor.</item>
+        <item>A fé é o caminho que Deus preparou para você.</item>
+        <item>Que Deus cumpra todos os seus desejos nobres.</item>
+        <item>Deus abençoa a quem trabalha com honestidade e integridade.</item>
+        <item>Que a luz de Deus ilumine o seu futuro.</item>
+        <item>Confie em Deus e verá milagres acontecerem.</item>
+        <item>Que as bênçãos de Deus fluam livremente em sua vida.</item>
+        <item>Deus é fiel e nunca falta com Sua palavra.</item>
+        <item>Que você tenha força para superar cada obstáculo com a ajuda de Deus.</item>
+        <item>Que a graça divina cure suas feridas e restaure seu espírito.</item>
+        <item>Deus ama você incondicionalmente e eternamente.</item>
+        <item>Que você caminhe sempre nos caminhos da retidão sob proteção divina.</item>
+        <item>A bênção de Deus traz alegria e paz duradoura.</item>
+        <item>Que Deus abra as portas que você julga importantes.</item>
+        <item>Confie em Deus, pois Ele sabe o que é melhor para você.</item>
+        <item>Que a força do Senhor sustente você em todos os momentos.</item>
+        <item>Deus transforma vidas através da fé e da perseverança.</item>
+        <item>Que você sinta a presença amorosa de Deus a cada dia.</item>
+        <item>A misericórdia de Deus supera toda a compreensão humana.</item>
+        <item>Que as bênçãos materiais e espirituais fluam para você.</item>
+        <item>Deus abençoa quem semeia com generosidade e bondade.</item>
+        <item>Que a paz de Deus guarde seu coração e sua mente.</item>
+        <item>Com fé em Deus, você pode vencer qualquer adversidade.</item>
+        <item>Que Deus te use como instrumento de bênção para outros.</item>
+        <item>Deus tem o poder de renovar sua vida completamente.</item>
+        <item>Que você experimente o gozo que só Deus pode oferecer.</item>
+        <item>Confie no plano de Deus, mesmo quando não o compreende.</item>
+        <item>Que as portas do sucesso se abram conforme a vontade de Deus.</item>
+        <item>Deus abençoa quem cultiva a esperança e a fé.</item>
+        <item>Que a sabedoria divina te guie em cada decisão.</item>
+        <item>A graça de Deus é o alicerce de toda verdadeira bênção.</item>
+        <item>Que você sinta o carinho paternal de Deus sempre.</item>
+        <item>Deus promete descanso e paz para o coração cansado.</item>
+        <item>Que as bênçãos de Deus se multipliquem a cada novo dia.</item>
+        <item>Que a fé te leve a lugares que a razão não consegue alcançar.</item>
+        <item>Deus é digno de toda honra, louvor e adoração.</item>
+        <item>Que você encontre em Deus a força para prosseguir.</item>
+        <item>A bênção de Deus acompanha quem vive com integridade.</item>
+        <item>Que Deus abençoe sua saúde, seu trabalho e suas relações.</item>
+        <item>Confie que Deus está trabalhando a seu favor.</item>
+        <item>Que a proteção divina te resguarde de todo mal.</item>
+        <item>Deus vê seu esforço e recompensa a sua fidelidade.</item>
+        <item>Que você seja fortalecido pela fé em tempos de prova.</item>
+        <item>A misericórdia de Deus não tem fim e não conhece limites.</item>
+        <item>Que as bênçãos do Senhor sejam abundantes em sua casa.</item>
+        <item>Deus ama você mais do que você é capaz de amar a si mesmo.</item>
+        <item>Que a paz verdadeira habite em seu coração.</item>
+        <item>Confie em Deus, pois Ele nunca o deixará desamparado.</item>
+        <item>Que você seja tocado pela graça restauradora de Deus.</item>
+        <item>Deus abençoa quem busca a verdade e a justiça.</item>
+        <item>Que a esperança em Deus renove seu espírito diariamente.</item>
+        <item>A fé em Deus é a porta para uma vida transformada.</item>
+        <item>Que Deus ilumine seu caminho e dirija seus passos.</item>
+        <item>Deus está sempre pronto para ouvir e responder suas orações.</item>
+        <item>Que as bênçãos divinas transcendam suas expectativas.</item>
+        <item>Que você experimente a alegria de viver sob a bênção de Deus.</item>
+        <item>Confie em Deus e deixe que Ele conduza sua vida.</item>
+        <item>Deus promete que todos os seus direitos serão restaurados.</item>
+        <item>Que a sabedoria de Deus te guie em todas as circunstâncias.</item>
+        <item>A graça de Deus é suficiente para cada dia.</item>
+        <item>Que você sinta o abraço protetor de Deus sempre.</item>
+        <item>Deus abençoa quem cultiva a paz e a harmonia.</item>
+        <item>Que as portas da bênção se abram de par em par.</item>
+        <item>Com Deus, o impossível se torna possível.</item>
+        <item>Que você tenha coragem para seguir os caminhos de Deus.</item>
+        <item>A misericórdia divina renova todas as manhãs.</item>
+        <item>Que a fé te sustente quando tudo mais falhar.</item>
+        <item>Deus vê e conhece cada necessidade do seu coração.</item>
+        <item>Que as bênçãos de Deus te acompanhem sempre.</item>
+        <item>Confie no Senhor com todo o seu ser.</item>
+        <item>Que Deus transforme suas lágrimas em alegria.</item>
+        <item>Deus abençoa quem segue Seu caminho com sinceridade.</item>
+        <item>Que você sinta o poder transformador de Deus.</item>
+        <item>A paz de Deus supera toda compreensão e expectativa.</item>
+        <item>Que Deus prospere tudo o que você faz com honestidade.</item>
+        <item>Confie que o Senhor está guiando sua jornada.</item>
+        <item>Que a proteção divina o envolva constantemente.</item>
+        <item>Deus tem poder para restaurar e renovar sua vida.</item>
+        <item>Que você experimente a libertação que só Deus oferece.</item>
+        <item>A fé verdadeira move montanhas e realiza milagres.</item>
+        <item>Que as bênçãos de Deus fluam como rio de águas vivas.</item>
+        <item>Deus é fiel mesmo quando você duvida.</item>
+        <item>Que a graça divina te sustente e te fortaleça.</item>
+        <item>Confie em Deus e verá a Sua glória manifestada.</item>
+        <item>Que Deus abra portas que ninguém pode fechar.</item>
+        <item>A misericórdia de Deus é maior que qualquer pecado.</item>
+        <item>Que você sinta a presença viva de Deus em seu ser.</item>
+        <item>Deus abençoa quem vive com verdade e integridade.</item>
+        <item>Que a esperança em Deus te dê força para prosseguir.</item>
+        <item>A bênção do Senhor traz riquezas que não se corrompem.</item>
+        <item>Que você seja restaurado e renovado pela graça de Deus.</item>
+        <item>Com Deus ao seu lado, você é mais que vencedor.</item>
+        <item>Que a sabedoria divina ilumine todas as suas decisões.</item>
+        <item>Deus promete cuidar de você todos os dias da sua vida.</item>
+        <item>Que as bênçãos de Deus superem suas melhores expectativas.</item>
+        <item>Confie que Deus está trabalhando todas as coisas para o bem.</item>
+        <item>Que a paz do Senhor habite permanentemente em seu coração.</item>
+        <item>Deus abençoa quem mantém a fé mesmo diante da incerteza.</item>
+        <item>Que você sinta o amor incondicional de Deus.</item>
+        <item>A graça de Deus cobre todas as suas fraquezas.</item>
+        <item>Que Deus te use para abençoar a vida de muitos.</item>
+        <item>Deus tem misericórdia de quem se arrepende sinceramente.</item>
+        <item>Que a força do Senhor sustente você em todas as provações.</item>
+        <item>Confie em Deus, pois Ele é digno de toda confiança.</item>
+        <item>Que as bênçãos divinas multipliquem todos os seus dias.</item>
+        <item>A fé em Deus abre as portas para o futuro glorioso.</item>
+        <item>Que você experimente a libertação e a vitória em Deus.</item>
+        <item>Deus abençoa quem serve com coração puro e sincero.</item>
+        <item>Que a proteção de Deus circunde você de todos os lados.</item>
+        <item>A misericórdia divina é eterna e nunca falha.</item>
+        <item>Que você seja fortalecido no Senhor e no poder da Sua força.</item>
+        <item>Confie em Deus e deixe que Ele resolva seus problemas.</item>
+        <item>Que as portas da bênção se abram conforme a vontade divina.</item>
+        <item>Deus promete estar com você em todas as circunstâncias.</item>
+        <item>Que a sabedoria de Deus te guie sempre no melhor caminho.</item>
+        <item>A graça do Senhor é nova a cada amanhecer.</item>
+        <item>Que você sinta a presença consoladora de Deus.</item>
+        <item>Deus abençoa quem cultiva a esperança e a perseverança.</item>
+        <item>Que as bênçãos de Deus te acompanhem em cada jornada.</item>
+        <item>Com Deus, você tem tudo o que precisa para vencer.</item>
+        <item>Que a paz de Deus tranquilize sua mente e seu coração.</item>
+        <item>Confie que o Senhor está no controle de tudo.</item>
+        <item>Que Deus prospere você em corpo, alma e espírito.</item>
+        <item>A fé verdadeira é a chave para todas as bênçãos divinas.</item>
+        <item>Que você seja restaurado e renovado pela misericórdia de Deus.</item>
+        <item>Deus tem poder ilimitado para transformar sua situação.</item>
+        <item>Que a esperança em Deus te sustente em tempos difíceis.</item>
+        <item>A bênção do Senhor enriquece e não traz consigo tristeza.</item>
+        <item>Que você experimente a alegria profunda que só Deus dá.</item>
+        <item>Confie em Deus, pois Ele nunca o defraudará.</item>
+        <item>Que as bênçãos divinas fluam abundantemente para você.</item>
+        <item>Deus abençoa quem vive de acordo com Seus princípios.</item>
+        <item>Que a graça do Senhor seja suficiente para cada necessidade.</item>
+        <item>A misericórdia de Deus renova nossa esperança diariamente.</item>
+        <item>Que você sinta a ternura e o cuidado de Deus.</item>
+        <item>Deus promete recompensas eternas para os fiéis.</item>
+        <item>Que a fé em Deus te liberte do medo e da ansiedade.</item>
+        <item>Confie que Deus está guiando você para o melhor.</item>
+        <item>Que as portas da oportunidade se abram para você.</item>
+        <item>A paz de Deus é a melhor herança que você pode ter.</item>
+        <item>Que Deus abençoe sua família com saúde e prosperidade.</item>
+        <item>Deus é o fundador de toda bênção verdadeira.</item>
+        <item>Que a sabedoria divina governe suas escolhas.</item>
+        <item>Com Deus, o mal não pode prevalecer sobre você.</item>
+        <item>Que você seja fortalecido pela fé em tempos de prova.</item>
+        <item>A graça de Deus é o alimento da alma e do espírito.</item>
+        <item>Que as bênçãos do Senhor alcancem toda geração em sua família.</item>
+        <item>Confie em Deus e verá coisas extraordinárias acontecerem.</item>
+        <item>Que a proteção divina resguarde você de todo perigo.</item>
+        <item>Deus abençoa quem semeia com fé e colhe com alegria.</item>
+        <item>Que você sinta o toque restaurador de Deus em sua vida.</item>
+        <item>A misericórdia do Senhor é o fundamento de nossas esperanças.</item>
+        <item>Que Deus cumpra todas as Suas promessas em sua vida.</item>
+        <item>A fé em Deus transforma desertos em oásis floridos.</item>
+        <item>Que você experimente a vitória que só Deus oferece.</item>
+        <item>Confie no Senhor com um coração pleno e sincero.</item>
+        <item>Que as bênçãos divinas excedam todas as suas expectativas.</item>
+        <item>Deus promete estar ao seu lado em todas as circunstâncias.</item>
+        <item>Que a paz do Senhor seja seu escudo protetor.</item>
+        <item>A graça de Deus é infinita e inesgotável.</item>
+        <item>Que você seja tocado pela ação transformadora de Deus.</item>
+        <item>Deus abençoa quem mantém a fé firme e inabalável.</item>
+        <item>Que a esperança em Deus renove sua força a cada dia.</item>
+        <item>A bênção do Senhor segue os que vivem em retidão.</item>
+        <item>Que você encontre em Deus a razão para sua alegria.</item>
+        <item>Confie que Deus está resolvendo o que você não consegue.</item>
+        <item>Que as portas da bênção se abram para sua prosperidade.</item>
+        <item>Deus tem poder para restaurar o que foi perdido.</item>
+        <item>Que a sabedoria de Deus ilumine seu entendimento.</item>
+        <item>Com Deus, você jamais será abandonado ou esquecido.</item>
+        <item>Que a fé em Deus te dê coragem para enfrentar desafios.</item>
+        <item>A misericórdia divina cobre todos os nossos fracassos.</item>
+        <item>Que você sinta a presença de Deus fortalecendo seu espírito.</item>
+        <item>Confie em Deus, pois Ele é o guardião de sua alma.</item>
+        <item>Que as bênçãos de Deus fluam continuamente em sua vida.</item>
+        <item>Deus abençoa quem trilha o caminho da verdade.</item>
+        <item>Que a graça do Senhor te sustente em cada momento.</item>
+        <item>A paz de Deus passa toda compreensão e lógica.</item>
+        <item>Que você seja renovado pelos poderes regeneradores de Deus.</item>
+        <item>Deus promete glória para quem nele crê sinceramente.</item>
+        <item>Que a proteção de Deus rode você como um muro seguro.</item>
+        <item>A fé verdadeira faz você vencer qualquer obstáculo.</item>
+        <item>Que você experimente a liberdade que só Deus dá.</item>
+        <item>Confie em Deus e verá milagres em sua vida.</item>
+        <item>Que as bênçãos divinas multipliquem cada dia.</item>
+        <item>Deus abençoa quem vive com humildade e gratidão.</item>
+        <item>Que a sabedoria de Deus guie todos os seus caminhos.</item>
+        <item>A graça do Senhor é a ponte entre o hoje e o amanhã.</item>
+        <item>Que você sinta o calor do amor de Deus sempre.</item>
+        <item>Deus tem autoridade para abrir as portas cerradas.</item>
+        <item>Que a esperança em Deus sustente seu coração.</item>
+        <item>Com Deus, você é mais forte que qualquer adversidade.</item>
+        <item>Que a paz do Senhor governe seu espírito.</item>
+        <item>A misericórdia de Deus nunca se afasta de quem crê.</item>
+        <item>Que você seja abençoado em tudo o que empreender.</item>
+        <item>Confie em Deus e deixe que Ele molde seu destino.</item>
+        <item>Que as portas da oportunidade se abram constantemente.</item>
+        <item>Deus promete cumprir tudo o que Ele prometeu.</item>
+        <item>Que a fé em Deus te liberte de toda limitação.</item>
+        <item>A bênção do Senhor acompanha os que O buscam.</item>
+        <item>Que você sinta a força renovadora de Deus.</item>
+        <item>Deus abençoa quem cultiva a justiça e a bondade.</item>
+        <item>Que a graça divina flua abundantemente para você.</item>
+        <item>Confie que o Senhor está trabalhando a seu favor.</item>
+        <item>Que as bênçãos de Deus superem suas limitações.</item>
+        <item>A paz de Deus é a melhor riqueza que existe.</item>
+        <item>Que você seja fortalecido pela fé e pela esperança.</item>
+        <item>Deus tem o poder de transformar sua história.</item>
+        <item>Que a sabedoria do Senhor governe suas ações.</item>
+        <item>A misericórdia divina é o fundamento de tudo.</item>
+        <item>Que você experimente a vitória em todas as áreas.</item>
+        <item>Com Deus, você possui tudo o que precisa.</item>
+        <item>Que a proteção do Senhor resguarde você sempre.</item>
+        <item>Confie em Deus e verá Sua glória manifestada.</item>
+        <item>Que as bênçãos divinas te tornem próspero e feliz.</item>
+        <item>A graça de Deus renova a cada amanhecer.</item>
+        <item>Que você sinta o toque curativo de Deus.</item>
+        <item>Deus abençoa quem semeia com amor e colhe com alegria.</item>
+        <item>Que a fé em Deus te dê segurança para avançar.</item>
+        <item>A esperança em Deus nunca decepciona.</item>
+        <item>Que você seja tocado pela misericórdia divina.</item>
+        <item>Confie que Deus está cuidando de tudo.</item>
+        <item>Que as portas da bênção se abram amplamente.</item>
+        <item>Deus promete estar com você até o fim.</item>
+        <item>Que a paz do Senhor habite permanentemente em seu ser.</item>
+        <item>A sabedoria de Deus te guiará sempre no melhor caminho.</item>
+        <item>Que você experimente a alegria profunda em Deus.</item>
+        <item>Deus abençoa quem vive com fé inabalável.</item>
+        <item>Que a graça do Senhor te fortaleça em cada dia.</item>
+        <item>A misericórdia divina é eterna e sem limites.</item>
+        <item>Que você sinta o cuidado protetor de Deus.</item>
+        <item>Com Deus, você tem poder para vencer.</item>
+        <item>Que as bênçãos de Deus fluam livremente para você.</item>
+        <item>Confie em Deus, pois Ele é totalmente confiável.</item>
+        <item>Que a fé em Deus te liberte de toda insegurança.</item>
+        <item>Deus tem poder para abrir novos horizontes em sua vida.</item>
+        <item>Que a esperança em Deus renasça a cada dia.</item>
+        <item>A paz de Deus é a melhor companheira em qualquer situação.</item>
+        <item>Que você seja abençoado em corpo, alma e espírito.</item>
+        <item>Deus abençoa quem cultiva a verdade e a integridade.</item>
+        <item>Que a sabedoria divina ilumine sua visão.</item>
+        <item>Confie no Senhor com todo o seu coração.</item>
+        <item>Que as bênçãos do Senhor se multipliquem infinitamente.</item>
+        <item>A graça de Deus cobre toda nossa imperfeição.</item>
+        <item>Que você experimente a restauração completa em Deus.</item>
+        <item>Deus promete nunca o deixar desamparado.</item>
+        <item>Que a proteção divina circunde você permanentemente.</item>
+        <item>A fé em Deus transforma o impossível em possível.</item>
+        <item>Que você sinta a presença viva e real de Deus.</item>
+        <item>Confie que Deus está preparando bênçãos para você.</item>
+        <item>Que as portas da oportunidade se abram para seu futuro.</item>
+        <item>Deus abençoa quem serve com dedicação e amor.</item>
+        <item>Que a paz do Senhor seja seu porto seguro.</item>
+        <item>A misericórdia de Deus é nosso refúgio e fortaleza.</item>
+        <item>Que você seja fortalecido pela confiança em Deus.</item>
+        <item>Com Deus, nada é impossível ou inatingível.</item>
+        <item>Que as bênçãos divinas excedam toda expectativa.</item>
+        <item>Confie em Deus e verá a transformação acontecer.</item>
+        <item>Que a graça do Senhor flua abundantemente.</item>
+        <item>Deus tem o poder de renovar sua vida completamente.</item>
+        <item>Que a esperança em Deus te sustente firme.</item>
+        <item>A sabedoria divina é o melhor tesouro que existe.</item>
+        <item>Que você experimente a vitória verdadeira em Deus.</item>
+        <item>Deus abençoa quem mantém a integridade inabalável.</item>
+        <item>Que a fé em Deus te dê paz em meio à tempestade.</item>
+        <item>A bênção do Senhor acompanha os justos.</item>
+        <item>Que você sinta o abraço eterno de Deus.</item>
+        <item>Confie no Senhor e deixe que Ele cuide de você.</item>
+        <item>Que as bênçãos de Deus fluam como rio perene.</item>
+        <item>A graça divina é o fundamento de toda salvação.</item>
+        <item>Que a proteção de Deus resguarde seu caminho.</item>
+        <item>Deus promete alegria eterna para os fiéis.</item>
+        <item>Que você seja tocado pela transformação divina.</item>
+        <item>Com Deus, você tem a vitória garantida.</item>
+        <item>Que a paz do Senhor governe seu coração.</item>
+        <item>A misericórdia de Deus nos redime continuamente.</item>
+        <item>Que você experimente a liberdade em Deus.</item>
+        <item>Confie que o Senhor está guiando sua jornada.</item>
+        <item>Que as portas da bênção se abram plenamente.</item>
+        <item>Deus abençoa quem semeia com fé sincera.</item>
+        <item>Que a sabedoria do Senhor seja sua luz.</item>
+        <item>A esperança em Deus é inquebrantável e eterna.</item>
+        <item>Que você sinta a força restauradora de Deus.</item>
+        <item>Deus tem poder para restaurar tudo em sua vida.</item>
+        <item>Que a graça divina te acompanhe sempre.</item>
+        <item>Confie em Deus com toda sinceridade de coração.</item>
+        <item>Que as bênçãos do Senhor multipliquem-se.</item>
+        <item>A paz de Deus supera toda compreensão.</item>
+        <item>Que você seja abençoado em tudo o que tocar.</item>
+        <item>Deus abençoa quem vive com verdadeiro propósito.</item>
+        <item>Que a fé em Deus te fortaleça permanentemente.</item>
+        <item>A misericórdia divina nunca nos abandona.</item>
+        <item>Que você experimente a glória de Deus.</item>
+        <item>Com Deus, você é capaz de tudo.</item>
+        <item>Que a proteção do Senhor seja seu manto.</item>
+        <item>Confie em Deus e verá Sua bondade.</item>
+        <item>Que as bênçãos divinas transformem sua vida.</item>
+        <item>Deus promete recompensas para os fiéis.</item>
+        <item>Que a sabedoria de Deus te guie sempre.</item>
+        <item>A graça do Senhor é nova cada manhã.</item>
+        <item>Que você sinta a presença consoladora de Deus.</item>
+        <item>Deus abençoa quem cultiva a esperança.</item>
+        <item>Que a paz do Senhor tranquilize sua alma.</item>
+        <item>A fé verdadeira move montanhas e realiza sonhos.</item>
+        <item>Que você seja renovado pelo poder de Deus.</item>
+        <item>Confie no Senhor em todas as circunstâncias.</item>
+        <item>Que as portas se abram conforme a vontade de Deus.</item>
+        <item>Deus tem autoridade para transformar tudo.</item>
+        <item>Que a esperança em Deus renasça em você.</item>
+        <item>A bênção do Senhor traz verdadeira satisfação.</item>
+        <item>Que você experimente a libertação divina.</item>
+        <item>Com Deus, você é livre e vitoriosa.</item>
+        <item>Que a graça divina cure suas feridas.</item>
+        <item>Confie que Deus está trabalhando para o seu bem.</item>
+        <item>Que as bênçãos de Deus fluam continuamente.</item>
+        <item>A misericórdia de Deus é o fundamento da paz.</item>
+        <item>Que você sinta o amor infinito de Deus.</item>
+        <item>Deus abençoa quem vive com sinceridade.</item>
+        <item>Que a fé em Deus te dê coragem.</item>
+        <item>A sabedoria divina governa todas as coisas.</item>
+        <item>Que a paz de Deus seja sua companhia.</item>
+        <item>Confie em Deus, pois Ele é eterno e fiel.</item>
+        <item>Que as bênçãos do Senhor se realizem plenamente.</item>
+        <item>Deus promete proteger quem nele confia.</item>
+        <item>Que você seja fortalecido em toda circunstância.</item>
+        <item>A graça do Senhor flui como água viva.</item>
+        <item>Que a esperança em Deus te sustente para sempre.</item>
+        <item>Confie em Deus, pois Ele é eterno e fiel.</item>
+        <item>Que as bênçãos do Senhor se realizem plenamente.</item>
+        <item>Deus promete proteger quem nele confia.</item>
+        <item>Que você seja fortalecido em toda circunstância.</item>
+        <item>A graça do Senhor flui como água viva.</item>
+        <item>Que a esperança em Deus te sustente para sempre.</item>
+        <item>O Senhor é meu pastor, nada me faltará.</item>
+        <item>Que a paz de Deus guarde seu coração e sua mente.</item>
+        <item>Deus caminha ao seu lado em cada passo da jornada.</item>
+        <item>Que a fé inabalável te leve além de todos os obstáculos.</item>
+        <item>Que você encontre força nas promessas divinas.</item>
+        <item>Deus restaura a alma de quem se volta para Ele.</item>
+        <item>Que a luz celestial ilumine seu caminho todos os dias.</item>
+    </array>
+</resources>
