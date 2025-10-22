@@ -65,7 +65,7 @@ fun MainScreen(modifier: Modifier = Modifier) {
             contentScale = ContentScale.Crop, // ajeitar a imagem se ela estiver com resolução diferente
             modifier = Modifier
                 .fillMaxSize()
-                .alpha(0.8f)
+                .alpha(0.9f)
         )
 
         Column(
